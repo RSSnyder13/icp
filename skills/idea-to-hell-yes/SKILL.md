@@ -36,6 +36,8 @@ Your job is to determine the characteristics of at least one person who can't no
 
 "SOC 2 compliance software" (before Vanta existed): A CEO or sales leader who is trying to sell an enterprise deal, but the deal is on hold and potentially at risk because the potential customer has demanded SOC 2 compliance, but using a traditional consulting firm to do the SOC 2 audit would take an unreasonable amount of time and money.
 
+"Lemlist": Someone trying to do sales who can't not do outbound can't use Apollo or other sequencers for some specific reason (e.g., too difficult to use.)
+
 ## Additional thinking ##
 
 Reflow initially tried to target HR leaders for their "AI that automates handling employee inquiries" - but found that HR leaders rarely were stuck in a "not buying is not an option" situation, because HR leaders can just do nothing. They pivoted to focus on PEOs - outsourced HR firms - whose CEOs were focused on reducing their costs and increasing their margins and customer satisfaction but didn't have good ways to do that - they were stuck, where HR leaders were occasionally inconvenienced but never really stuck.
@@ -49,7 +51,6 @@ For each hypothesis, give:
 1. **Who**: a specific, findable person (role + company type + situation), not a broad segment.
 2. **What they can't not do**: the thing they must get done right now, and what forces it (deadline, compliance, a deal on hold, a boss, etc.).
 3. **Why their existing options fail**: why current tools, hiring, services, or doing nothing don't work for them.
-4. **How to test it**: how to find these people and what to ask or observe to confirm or kill the hypothesis quickly.
 
 If you are tearing down the user's hypothesis, first say plainly which of the two conditions it fails and why, then give the alternative(s) in the format above. If the product shape itself makes a "can't not buy" buyer unlikely, say so and suggest how to reshape it.
 
