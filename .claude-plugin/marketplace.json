@@ -1,0 +1,16 @@
+{
+  "name": "idea-to-hell-yes",
+  "owner": {
+    "name": "rssnyder13"
+  },
+  "metadata": {
+    "description": "Customer-discovery skills for finding buyers who can't not buy."
+  },
+  "plugins": [
+    {
+      "name": "idea-to-hell-yes",
+      "source": "./",
+      "description": "Turn an idea, sales call, or company into a testable \"hell yes\" hypothesis: who would be weird NOT to buy it."
+    }
+  ]
+}
