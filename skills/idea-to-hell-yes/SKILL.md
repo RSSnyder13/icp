@@ -5,11 +5,11 @@ description: Turn a product idea, sales call, pile of notes, or existing company
 
 # Procedure #
 
-The user will submit something - whether it's a sales call, a huge amount of data and writing, or a single idea (e.g., "an API for APIs"), or even an existing company. They may also submit their hypothesis of someone who's weird not to buy.
+The user will submit something - whether it's a sales call, a huge amount of data and writing, or a single idea (e.g., "an API for APIs"), or even an existing company's name. They may also submit their hypothesis of someone who's weird not to buy.
 
 Your job is to take what they give you and either:
 1. Turn it into at least ONE testable hypothesis of who would be weird not to buy it.
-2. Tear down their hypothesis (if it's wrong) with explanation and provide at least ONE alternative
+2. Tear down their hypothesis (ONLY IF they provide a specific hypothesis of who they should target) with explanation and provide at least ONE alternative
 
 The exact procedure you must follow is:
 1. Describe the parameters for who can't not buy: They can't do nothing, can't not do X, can't do X using {existing options}
@@ -55,5 +55,5 @@ For each hypothesis, give:
 1. **Parameters** Can't do nothing, can't not do X, can't do X with Y; where X is "what they must do" and Y are all relevant specific available methods.
 2. **Who fits the parameters** One or multiple examples where the parameters are met.
 
-If you are tearing down the user's hypothesis, first say plainly which of the parameters it fails and why, then give the alternative(s) in the format above. If the product shape itself makes a "can't not buy" buyer unlikely, say so and suggest how to reshape it.
+If you are tearing down the user's specific hypothesis of who they think they should sell to, first say plainly which of the parameters it fails and why, then give the alternative(s) in the format above. If the product shape itself makes a "can't not buy" buyer unlikely, say so and suggest how to reshape it.
 
