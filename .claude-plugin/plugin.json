@@ -1,10 +1,10 @@
 {
-  "name": "idea-to-hell-yes",
-  "version": "0.1.2",
+  "name": "idea-test",
+  "version": "0.2.0",
   "description": "Turn an idea, sales call, or company into a testable \"hell yes\" hypothesis: who would be weird NOT to buy it.",
   "author": {
     "name": "rssnyder13"
   },
-  "repository": "https://github.com/rssnyder13/idea-to-hell-yes",
+  "repository": "https://github.com/rssnyder13/idea-test",
   "keywords": ["sales", "customer-discovery", "icp", "startups", "go-to-market"]
 }

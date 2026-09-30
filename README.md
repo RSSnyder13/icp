@@ -1,4 +1,4 @@
-# idea-to-hell-yes
+# idea-test
 
 A Claude Code plugin that turns an idea into a testable "hell yes" hypothesis: **who would be weird *not* to buy it?**
 
@@ -14,8 +14,8 @@ A "can't not buy" buyer is someone who (a) is trying to do something right now t
 In Claude Code:
 
 ```
-/plugin marketplace add rssnyder13/idea-to-hell-yes
-/plugin install idea-to-hell-yes@idea-to-hell-yes
+/plugin marketplace add rssnyder13/idea-test
+/plugin install idea-test@idea-test
 ```
 
 ## Usage
@@ -23,11 +23,11 @@ In Claude Code:
 Run the command directly:
 
 ```
-/hell-yes an API for APIs
-/hell-yes AI notetaker for financial advisors — my hypothesis: any advisor who hates taking notes
+/idea-test an API for APIs
+/idea-test AI notetaker for financial advisors — my hypothesis: any advisor who hates taking notes
 ```
 
-Or just ask naturally ("who would actually buy this?", "pressure-test my ICP") and Claude will pick up the `idea-to-hell-yes` skill automatically.
+Or just ask naturally ("who would actually buy this?", "pressure-test my ICP") and Claude will pick up the `idea-test` skill automatically.
 
 ## Layout
 
@@ -35,6 +35,6 @@ Or just ask naturally ("who would actually buy this?", "pressure-test my ICP") a
 .claude-plugin/
   plugin.json         # plugin manifest
   marketplace.json    # lets this repo be added as a marketplace
-skills/idea-to-hell-yes/SKILL.md   # the method
-commands/hell-yes.md               # /hell-yes slash command
+skills/idea-test/SKILL.md   # the method
+commands/idea-test.md       # /idea-test slash command
 ```
