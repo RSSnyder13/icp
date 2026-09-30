@@ -1,5 +1,5 @@
 {
-  "name": "idea-to-hell-yes",
+  "name": "icp",
   "owner": {
     "name": "rssnyder13"
   },
@@ -8,9 +8,9 @@
   },
   "plugins": [
     {
-      "name": "idea-to-hell-yes",
+      "name": "icp",
       "source": "./",
-      "version": "0.1.2",
+      "version": "0.2.0",
       "description": "Turn an idea, sales call, or company into a testable \"hell yes\" hypothesis: who would be weird NOT to buy it."
     }
   ]
