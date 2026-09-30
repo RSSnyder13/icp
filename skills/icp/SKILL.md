@@ -1,4 +1,4 @@
-name: "idea-test"
+name: icp
 description: Turn a product idea, sales call, pile of notes, or existing company into a testable "hell yes" hypothesis of who would be weird NOT to buy it, or tear down the user's own buyer hypothesis and propose a better one, then map every hypothesis by how many people fit it and how likely they are to be stuck right now. Use when the user asks who their ideal customer, ICP, or target buyer is, wants to pressure-test a buyer hypothesis, asks "who would buy this?", is doing customer discovery for a startup idea, or wants to compare several ideas or buyers by how big and how urgent the market is.
 ---
  
