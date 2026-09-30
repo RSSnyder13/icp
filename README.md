@@ -1,6 +1,6 @@
 # ICP
 
-A Claude Code plugin that turns an idea into a testable "hell yes" hypothesis: **who would be weird *not* to buy it?**
+A Claude Code plugin that turns an idea into a testable ICP hypothesis: **who would be weird *not* to buy it?**
 
 Give it a product idea, a sales call transcript, a pile of notes, or an existing company, and it will either:
 
